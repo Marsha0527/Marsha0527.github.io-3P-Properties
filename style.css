@@ -24,3 +24,23 @@ h3 {
   border: 2px solid #000;
   border-radius: 7px;
 }
+  
+  #gallery {
+    background-color: #D3D3D3;
+  }
+  
+  #page-header {
+    background-color: #D3D3D3;
+  }
+  
+  #icon-boxes {
+    background-color: #D3D3D3;
+  }
+  
+  #main-footer {
+    background-color: #D3D3D3;
+  }
+  
+  #contact {
+    background-color: #D3D3D3;
+  }
