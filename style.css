@@ -1,7 +1,7 @@
 
 .navbar {
   background-color: #000;
-  word-spacing: 10px;
+  word-spacing: 14px;
   letter-spacing: 2px;
   font-size: 18px;
 }
@@ -28,6 +28,7 @@ h3 {
   #gallery {
     background-color: #D3D3D3;
   }
+  
   #gallery .photo {
     border: 2px solid #000;
   }
