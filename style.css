@@ -3,7 +3,7 @@
   background-color: #000;
   word-spacing: 14px;
   letter-spacing: 2px;
-  font-size: 18px;
+  font-size: 24px;
 }
 
 #home-heading {
@@ -13,7 +13,7 @@
 #home-heading .photo {
   border: 2px solid #000;
 
-h3 {
+#home-icons h3 {
   text-decoration: italic;
   text-shadowing: 1px 1p 1px #000;
 }
