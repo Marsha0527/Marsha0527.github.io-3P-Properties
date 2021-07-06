@@ -1,7 +1,7 @@
 
 .navbar {
   background-color: #000;
-  word-spacing: 5px;
+  word-spacing: 10px;
   letter-spacing: 2px;
   font-size: 18px;
 }
@@ -14,6 +14,7 @@
   border: 2px solid #000;
 
 h3 {
+  text-decoration: italic;
   text-shadowing: 1px 1p 1px #000;
 }
 
