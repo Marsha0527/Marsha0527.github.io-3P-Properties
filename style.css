@@ -1,10 +1,10 @@
 
-#main-nav {
+.navbar {
   background-color: #000;
 }
 
 #home-heading {
-  background-color: #556B2F;
+  background-color: #D3D3D3;
 }
 
 #home-heading .photo {
