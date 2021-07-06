@@ -1,6 +1,9 @@
 
 .navbar {
   background-color: #000;
+  word-spacing: 5px;
+  letter-spacing: 2px;
+  font-size: 18px;
 }
 
 #home-heading {
