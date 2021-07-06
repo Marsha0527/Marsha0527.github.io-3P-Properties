@@ -8,5 +8,6 @@ navbar {
 }
 
 #home-icons .fas {
+  padding: 7px;
   border: 2px solid #000;
 }
