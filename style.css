@@ -6,3 +6,7 @@ navbar {
 #home-heading-section {
   background-color: #556B2F;
 }
+
+#home-icons .fas {
+  border: 2px solid #000;
+}
