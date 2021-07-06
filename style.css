@@ -7,6 +7,9 @@
   background-color: #556B2F;
 }
 
+#home-heading .container {
+  border: 2px solid #000;
+
 #home-heading h3 {
   text-shadowing: 1px 1p 1px #000;
 }
