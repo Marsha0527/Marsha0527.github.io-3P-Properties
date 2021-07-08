@@ -41,14 +41,14 @@
     background-color: #D3D3D3;
   }
   
-  .card-text {
-    color: #000;
+  #cabins .container {
+    border: 2px solid #000;
   }
   
   #main-footer {
     background-color: #D3D3D3;
   }
   
-  #contact {
+  #contact {bor
     background-color: #D3D3D3;
   }
