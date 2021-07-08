@@ -41,7 +41,9 @@
     background-color: #D3D3D3;
   }
   
-  
+  .card-title {
+    border-radius: 2px solid #000;
+  }
   
   #main-footer {
     background-color: #D3D3D3;
