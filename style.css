@@ -49,6 +49,10 @@
     background-color: #D3D3D3;
   }
   
-  #contact {bor
+  #contact {
     background-color: #D3D3D3;
+  }
+  
+  .card-img-top {
+    border: 2px solid #000;
   }
