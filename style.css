@@ -53,6 +53,6 @@
     background-color: #D3D3D3;
   }
   
-  .card-img-top {
-    border: 2px solid #000;
+  .card-img {
+    border: 3px solid #000;
   }
