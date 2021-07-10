@@ -25,4 +25,8 @@
   border-radius: 7px;
 }
   
+  #contact .container {
+    border: 5px solid #000;
+  }
+  
   
