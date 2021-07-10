@@ -25,34 +25,4 @@
   border-radius: 7px;
 }
   
-  #gallery {
-    background-color: #D3D3D3;
-  }
   
-  #gallery .photo {
-    border: 2px solid #000;
-  }
-    
-  #page-header {
-    background-color: #D3D3D3;
-  }
-  
-  #icon-boxes {
-    background-color: #D3D3D3;
-  }
-  
-  #cabins .container {
-    border: 2px solid #000;
-  }
-  
-  #main-footer {
-    background-color: #D3D3D3;
-  }
-  
-  #contact {
-    background-color: #D3D3D3;
-  }
-  
-  .card-img {
-    border: 3px solid #000;
-  }
