@@ -24,6 +24,11 @@
   text-shadowing: 1px 1p 1px #000;
 }
 
+  .fas {
+    border: 3px solid #000;
+    border-radius: 2px;
+  }
+    
 #home-icons {
   background-color: #F0F0F0;
   padding: 15px;
