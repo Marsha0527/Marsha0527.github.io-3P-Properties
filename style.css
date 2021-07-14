@@ -27,10 +27,11 @@
 }
 
   .fas {
-    background-color: #fff;
+    background-color: #F0F0F0;
     border: 3px solid #000;
     border-radius: 2px;
-    padding: 50px;
+    padding: 35px;
+    
   }
   
   #contact .container {
