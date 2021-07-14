@@ -13,6 +13,8 @@
 
 #home-heading .photo {
   border: 2px solid #000;
+  border-radius: 7px;
+}
 
   #home-heading h4 {
     font-family: Shadow Into Light, sans-serif;
