@@ -29,8 +29,9 @@
   .fas {
     background-color: #D3D3D3;
     color: #000;
+    font-weight: normal;
     border: 3px solid #000;
-    border-radius: 2px;
+    border-radius: 7px;
     padding: 15px;
     
   }
