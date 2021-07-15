@@ -37,8 +37,11 @@
   }
   
 .icon-text {
-  font-size: 18px;
+  background-color: #D3D3D3;
+  font-size: 24px;
   border: 2px solid #000;
+  border-radius: 7px;
+  
 }
 
   #contact .container {
