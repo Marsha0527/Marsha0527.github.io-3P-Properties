@@ -37,7 +37,8 @@
   }
   
 .icon-text {
-  font-size: 28px;
+  font-size: 18px;
+  border: 2px solid #000;
 }
 
   #contact .container {
