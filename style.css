@@ -27,7 +27,7 @@
 }
 
   .fas {
-    background-color: #eee8aa;
+    background-color: #e3dac9;
     color: #000;
     font-weight: normal;
     border: 3px solid #000;
@@ -37,9 +37,9 @@
   }
   
 .icon-text {
-  background-color: #eee8aa;
+  background-color: #e3dac9;
   font-size: 24px;
-  border: 2px solid #daa520;
+  border: 3px solid #999a86;
   border-radius: 7px;
   
 }
