@@ -36,6 +36,10 @@
     
   }
   
+.icon-text {
+  font-size: 28px;
+}
+
   #contact .container {
     border-radius: 5px solid #000;
   }
