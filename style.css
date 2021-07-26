@@ -50,6 +50,7 @@
 
 #gallery .image {
   border: 5px solid #000;
+  border-radius: 5px;
 }
 
   #contact .container {
