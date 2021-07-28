@@ -53,6 +53,10 @@
   border-radius: 5px;
 }
 
+#page-header {
+  background-color: #E3DAC9;
+}
+
   #contact .container {
     border-radius: 5px solid #000;
   }
