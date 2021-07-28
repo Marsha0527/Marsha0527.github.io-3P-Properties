@@ -1,4 +1,14 @@
 
+*{
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #E3DAC9;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+}
+
 .navbar {
   background-color: #000;
   word-spacing: 14px;
