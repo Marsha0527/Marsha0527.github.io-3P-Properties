@@ -21,6 +21,10 @@
     font-weight: normal;
   }
   
+#home-icons {
+  background-color: #828282;
+}
+
  h3 {
   text-decoration: italic;
   text-shadowing: 1px 1p 1px #000;
