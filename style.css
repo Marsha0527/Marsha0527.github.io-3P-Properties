@@ -80,15 +80,15 @@ body {
 }
 
 #radio2:checked ~ .first {
-  margin-left: -200;
+  margin-left: -20%;
 }
 
 #radio3:checked ~ .first {
-  margin-left: -400;
+  margin-left: -40%;
 }
 
 #radio4:checked ~ .first {
-  margin-left: -600;
+  margin-left: -60%;
 }
 
   #home-heading h4 {
