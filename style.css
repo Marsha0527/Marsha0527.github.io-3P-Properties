@@ -28,6 +28,12 @@ body {
   border-radius: 7px;
 }
 
+.slider {
+  width: 800px;
+  height: 500px;
+  border-radius: 10px;
+}
+
   #home-heading h4 {
     font-family: Shadow Into Light, sans-serif;
     font-weight: normal;
