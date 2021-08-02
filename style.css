@@ -25,6 +25,8 @@ body {
   #home-heading h4 {
     font-family: Shadow Into Light, sans-serif;
     font-weight: normal;
+    align-text: center;
+    justify-text: center;
   }
   
 #home-icons {
