@@ -139,6 +139,10 @@ body {
   border-radius: 5px;
 }
 
+#cabins {
+  background-color: #D3D3D3;
+} 
+
 #page-header .container {
   background-color: #E3DAC9;
 }
