@@ -143,6 +143,10 @@ body {
   background-color: #E3DAC9;
 } 
 
+.card-header {
+  background-color: #DBDBDB;
+}
+
 #page-header  {
   background-color: #E3DAC9;
 }
