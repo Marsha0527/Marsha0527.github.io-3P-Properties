@@ -29,6 +29,10 @@ body {
   border-spacing: inherit;
 }
 
+.photo {
+  padding: 20px;
+}
+
 .slider {
   width: 800px;
   height: 500px;
