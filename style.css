@@ -24,15 +24,13 @@ body {
 }
 
 #home-heading .photo {
-  padding: 20px;
+  margin: 20px;
   border: 5px solid #000;
   border-radius: 7px;
   border-spacing: inherit;
 }
 
-.photo {
-  margin: 20px;
-}
+
 
 .slider {
   width: 800px;
