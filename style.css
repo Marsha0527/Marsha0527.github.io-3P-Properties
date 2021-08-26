@@ -7,8 +7,8 @@ body {
 
 .navbar {
   background-color: #000;
-  word-spacing: 14px;
-  letter-spacing: 2px;
+  word-spacing: 8px;
+  letter-spacing: 1px;
   font-size: 18px;
   border-radius: 3px;
 }
@@ -40,30 +40,6 @@ body {
   overflow: hidden;
 }
 
-.slides {
-  width: 500%;
-  height: 500px;
-  display: flex;
-  }
-
-.slides input {
-  display: none;
-}
-
-.slide img {
- width: 800px;
-  height: 500px;
-}
-
-/* CSS for manual slide navigation */
-.navigation-manual {
-  position: absolute;
-  width: 800px;
-  margin-top: -40px;
-  display: flex;
-  justify-content: center;
-}
-
 .manual.btn {
   border: 2px solid #E3DAC9;
   padding: 5px;
@@ -78,22 +54,6 @@ body {
 
 .manual-btn:hover {
   background: #E3DAC9;
-}
-
-#radio1:checked ~ .first {
-  margin-left: 0;
-}
-
-#radio2:checked ~ .first {
-  margin-left: -20%;
-}
-
-#radio3:checked ~ .first {
-  margin-left: -40%;
-}
-
-#radio4:checked ~ .first {
-  margin-left: -60%;
 }
 
   #home-heading h4 {
