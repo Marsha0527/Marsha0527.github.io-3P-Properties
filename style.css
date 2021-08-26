@@ -6,6 +6,7 @@ body {
 }
 
 .navbar {
+  margin: 5px;
   background-color: #F0F0F0;
   color: #000;
   word-spacing: 8px;
