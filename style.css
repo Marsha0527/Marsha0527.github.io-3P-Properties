@@ -5,6 +5,12 @@ body {
   font-size: 18px;
 }
 
+.container {
+  margin: 0px 0px 0px 0ox;
+  padding: 5px 5px;
+  
+}
+  
 .navbar {
   margin: 0px;
   background-color: #F0F0F0;
