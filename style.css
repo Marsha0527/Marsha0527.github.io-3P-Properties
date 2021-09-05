@@ -23,6 +23,11 @@ body {
   border: 5px solid #000;
 }
 
+.logo {
+  width: 10px;
+  height: 5px;
+}
+
 #home-heading {
   background-color: #e3dac9;
   margin: 0;
