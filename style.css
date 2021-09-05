@@ -13,6 +13,7 @@ body {
   
 .navbar {
   margin: 0px;
+  padding: 5px 0px 5px 0px;
   background-color: #F0F0F0;
   color: #000;
   word-spacing: 8px;
