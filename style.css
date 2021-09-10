@@ -28,7 +28,7 @@ body {
   
 }
 
-.nav-item li{
+li .nav-item {
   border: green 5px solid;
 }
 
