@@ -27,6 +27,11 @@ nav ul {
   word-spacing: 1.5rem;
   border: 5px red solid;
 }
+
+.navbar-nav {
+  border: red solid 5px;
+}
+
 .logo {
   width: 90px;
   height: 100px;
