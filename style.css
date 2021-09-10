@@ -23,13 +23,9 @@ body {
   border: 5px solid #000;
 }
 
-nav ul {
-  word-spacing: 1.5rem;
-  border: 5px red solid;
-}
-
 .navbar-nav {
-  border: red solid 5px;
+  word-spacing: 1.5rem;
+  
 }
 
 .logo {
