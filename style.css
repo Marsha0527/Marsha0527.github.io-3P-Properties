@@ -28,6 +28,10 @@ body {
   
 }
 
+.nav-item {
+  border: green 5px solid;
+}
+
 .logo {
   width: 90px;
   height: 100px;
