@@ -28,7 +28,7 @@ body {
   
 }
 
-.nav-item {
+.nav-item a{
   border: green 5px solid;
 }
 
