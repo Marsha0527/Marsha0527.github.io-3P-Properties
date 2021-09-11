@@ -20,7 +20,7 @@ nav ul li {
   display: inline-block;
   text-decoration: none;
   border: green solid 5px;
-  padding: 25px;
+  padding: 15px;
 }
 nav li:hover {
 text-decoration: none;
