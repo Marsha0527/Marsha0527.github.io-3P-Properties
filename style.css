@@ -22,6 +22,7 @@ nav ul li {
   background-color: #000;
   color: #fff;
   border: green solid 5px;
+  border-radius: 5px;
   padding: 10px;
 }
 nav li a:hover {
@@ -48,14 +49,6 @@ text-decoration: none;
   justify-content: center;
   align-items: center;  
 }
-
-/*
-#home-heading .photo {
-  margin: 20px;
-  border: 5px solid #000;
-  border-radius: 7px;
-  border-spacing: inherit;
-}   */
 
 #slider {
   overflow: hidden;
