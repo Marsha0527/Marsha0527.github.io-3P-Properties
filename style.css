@@ -19,11 +19,15 @@ nav ul li {
   list-style-type: none;
   display: inline-block;
   text-decoration: none;
+  background-color: #000;
+  color: #fff;
   border: green solid 5px;
   padding: 10px;
 }
 nav li a:hover {
 text-decoration: none;
+  background-color: #fff;
+  color: #000;
   border: blue solid 5px;
   display: block;
 }
