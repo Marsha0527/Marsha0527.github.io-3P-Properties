@@ -19,6 +19,10 @@ nav ul {
   word-spacing:1.5rem;
   border: red 5px solid;
 }
+nav ul li {
+  list-style-type: none;
+  border: green solid 5px;
+}
 
 .logo {
   width: 90px;
