@@ -12,6 +12,8 @@ body {
 }
 
 nav ul {
+  display: inline-block;
+  word-spacing:1.5rem;
   border: red 5px solid;
 }
 
