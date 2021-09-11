@@ -20,6 +20,8 @@ nav ul li {
 }
 
 .nav-img {
+  margin: 0;
+  padding: 0;
   width: 90px;
   height: 100px;
 }
