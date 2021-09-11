@@ -11,13 +11,18 @@ nav ul {
   list-style-type: none;
   text-align: right;
   word-spacing:1.5rem;
+  letter-spacing: .5rem;
+  text-decoration: none;
   border: red 5px solid;
 }
 nav ul li {
   list-style-type: none;
   display: inline-block;
-  
   border: green solid 5px;
+}
+nav li:hover {
+text-decoration: none;
+  border: blue solid 5px;
 }
 
 .nav-img {
