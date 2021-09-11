@@ -22,7 +22,7 @@ nav ul li {
   border: green solid 5px;
   padding: 10px;
 }
-nav li:hover {
+nav li a:hover {
 text-decoration: none;
   border: blue solid 5px;
 }
