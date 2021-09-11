@@ -25,6 +25,7 @@ nav ul li {
 nav li a:hover {
 text-decoration: none;
   border: blue solid 5px;
+  display: block;
 }
 
 .nav-img {
