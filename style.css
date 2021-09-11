@@ -20,6 +20,7 @@ nav ul li {
   display: inline-block;
   text-decoration: none;
   border: green solid 5px;
+  padding: 5px;
 }
 nav li:hover {
 text-decoration: none;
@@ -27,7 +28,7 @@ text-decoration: none;
 }
 
 .nav-img {
-  margin: 0;
+  margin: 10px;
   padding: 0;
   width: 90px;
   height: 100px;
