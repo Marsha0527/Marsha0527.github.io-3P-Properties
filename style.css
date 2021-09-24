@@ -158,8 +158,10 @@ body {
     text-decoration: italic;
     text-shadow: 1px 1p 1px #000;
   }
-  
-    .fas {
+  #newsletter h1 {
+    margin-bottom: 4rem;
+  }
+  .fas {
       background-color: #e3dac9;
       color: #000;
       font-weight: normal;
@@ -239,4 +241,3 @@ body {
     margin-right: 13rem;
 }
   
-
