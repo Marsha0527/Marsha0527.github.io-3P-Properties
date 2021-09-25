@@ -1,5 +1,8 @@
 
-  
+* {
+  box-sizing: border-box;
+}
+
 body {
     background-color: #E3DAC9;
     font-family: "Poppins", sans-serif, Helvetica;
@@ -22,7 +25,13 @@ body {
     justify-content: space-between;
     text-decoration: none;
   }
-
+  .navbar-brand {
+    color: #3CB371;
+    font-size: 2rem;
+    word-spacing: .25rem;
+    text-shadow: .75px .75px .75px #000;
+    text-decoration: underline #000 .75px;
+  }
   .nav-item {
     background-color: #AFAFAF;
     margin: 10;
@@ -31,28 +40,19 @@ body {
     margin-right: .15rem;
     color: #fff;
   }
-
-.navbar-brand {
-  color: #000;
-  font-size: 2rem;
-  word-spacing: .25rem;
-  text-shadow: .5px .5px .5px #3CB371;
-}
-
-.nav a {
-  color: #000;
-}
-.navbar li a {
+  .navbar li a {
     margin: 5px 10px;
     padding: 5px 5px;
     display: block;
     border-radius: 5px;
     background-color: #000;
-    color: #fff;
+    color: #E3DAC9;
     border-radius: 5px;
     justify-content: space-between;
     }
-  
+.nav a {
+  color: #000;
+}
   .navbar li a:hover {
       background-color: #3CB371;
       color: #000;
@@ -130,7 +130,7 @@ body {
     }
   
     #home-heading h4 {
-      font-family: Shadow Into Light, sans-serif;
+      font-family: Georgia, sans-serif;
       font-weight: normal;
       align-content: center;
       justify-content: center;
@@ -141,43 +141,58 @@ body {
      border: #000 2.5px solid;
      border-radius: 7px;
     }
-.container3 h3 {
-  color: #3CB371;
-  text-shadow: 1.5px 1.5px 1.5px #000;
-  text-decoration: underline #000 .75px;
-}
+    .container3 h3 {
+    color: #3CB371;
+    text-shadow: 1.5px 1.5px 1.5px #000;
+    text-decoration: underline #000 .75px;
+    }
     .img {
       border: #000 solid 2px;
       border-radius: 7px solid #000;
     }
-  #home-icons {
+  #animal-section {
     background-color: #828282;
   }
-  
-   h3 {
-    text-decoration: italic;
-    text-shadow: 1px 1p 1px #000;
+  #animal h3 {
+    margin-top: 1rem;
+  }
+  .animal-text {
+    color: #000;
+    font-size: 20px;
+    background-color: #E3DAC9;
+    border: #000 solid 2px;
+    border-radius: 7px;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin-top: 2rem;
   }
   #newsletter h1 {
     margin-bottom: 4rem;
+    color: #3CB371;
+    text-shadow: 1.5px 1.5px 1.5px #000;
+    text-decoration: underline #000 .75px;
   }
-  .fas {
-      background-color: #e3dac9;
-      color: #000;
-      font-weight: normal;
-      border: 3px solid #000;
-      border-radius: 7px;
-      padding: 25px;    
-      }
-    
-  #icon-boxes {
-    background-color: #E3DAC9;
+  #newsletter h4 {
+    font-weight: bold;
+    word-spacing: .15rem;
+    margin-bottom: 4rem;
+    text-shadow: .35px .35px .35px #FFF;
   }
-  
+ 
+  #about h1 {
+    color: #3CB371;
+    text-shadow: 1.5px 1.5px 1.5px #000;
+    text-decoration: underline #000 .75px;
+  }
+  #about .col {
+   border-radius: #000 solid 7px;
+ }
+ 
   #icon-boxes h3 {
     color: #3CB371;
     text-shadow: 1.5px 1.5px 1.5px #000;
     text-decoration: underline #000 .75px;
+    border-radius: 7px;
   }
   .icon-text {
     background-color: #e3dac9;
@@ -186,11 +201,50 @@ body {
     border-radius: 7px;
     padding: 0 .5rem;
     }
-  
-
+    #cabins {
+      background-color: #E3DAC9;
+    } 
+    #cabin .container {
+      border: #000 2px solid;
+    }
+  .card-img-top {
+    border-radius: 7px solid #000;
+  }
+  #page-header h1 {
+    color: #3CB371;
+    text-shadow: 1.5px 1.5px 1.5px #000;
+    text-decoration: underline #000 .75px;
+    margin-bottom: 2rem;
+    align-content: center;
+    justify-content: center;
+  }
+  #page-header h5 {
+    font-weight: bold;
+    word-spacing: .15rem;
+    margin-bottom: 4rem;
+    text-shadow: .35px .35px .35px #FFF;
+    align-content: center;
+    justify-content: center;
+  }
+  #page-header p {
+    font-weight: bold;
+    word-spacing: .15rem;
+    margin-bottom: 4rem;
+    text-shadow: .35px .35px .35px #FFF;
+    color: #000;
+  }
+  #page-header .title {
+    text-align: center;
+  }
+  #page-header p {
+    text-align: center;
+  }
   .form-control {
-    background-color: #AFAFAF;
+    background-color: #DDDDDD;
     border: 2px #3CB371 solid;
+    color: #000;
+    font-size: 18px;
+    margin-bottom: 1.5rem;
   }
   .form-control:hover {
     background-color: #3CB371;
@@ -198,10 +252,7 @@ body {
     border: 2px #000 solid;
   }
   
-  #cabins {
-    background-color: #E3DAC9;
-  } 
-  #page-header h1 {
+ #page-header h1 {
     margin-top: 4.5rem;
     text-decoration: underline #000 1px;
   }
@@ -210,14 +261,36 @@ body {
   }
    .card-header {
     background-color: #AFAFAF;
+    border: #000 solid 2px;
   }
   .card-header h3 {
     color: #3CB371;
     text-shadow: 1.5px 1.5px 1.5px #000;
     text-decoration: underline #000 1.5px;
   }
+  #todo-section {
+    margin-bottom: 0;
+  }
+ #todo-section .card-title {
+  color: #3CB371;
+  text-shadow: 1.5px 1.5px 1.5px #000;
+  text-decoration: underline #000 1.5px;
+ }
+ .img {
+   border: #000 solid 2px;
+   border-radius: 7px;
+   margin-left: 4rem;
+ }
+ .card-img-top {
+   border: #000 solid 2px;
+   border-radius: 7px;
+ }
+ p .card-text {
+   font-size: 20px;
+   font-weight: bold;
+ }
   .btn {
-   background-color: #AFAFAF;
+   background-color: #DDDDDD;
     border: 2px solid #3CB371;
     color: #000;
   }
@@ -231,8 +304,26 @@ body {
   .card-body {
     background-color: #AFAFAF;
     color: #000;
+    border: #000 solid 2px;
   }
-
+  .card-title {
+    text-align: center;
+  }
+.card-footer {
+  background-color: #DDDDDD;
+  color: #000;
+  text-align: center;
+  border: 2px #000 solid;
+}
+#contact h3 {
+  color: #3CB371;
+  text-shadow: 1.5px 1.5px 1.5px #000;
+  text-decoration: underline #000 1.5px;
+}
+.container2 {
+  border-bottom: #000 solid 1px;
+  margin-bottom: 1.5rem;
+}
   .container-bottom {
     border-top: 1.5px solid #3CB371;
     border-bottom: 1.5px solid #3CB371; 
