@@ -339,3 +339,17 @@ body {
     margin-right: 13rem;
 }
   
+/*small device*/
+@media screen and (min-width: 620px){
+
+}
+
+/*large tablets and laptops*/
+@media screen and (min-width: 960px){
+
+}
+
+/*desktop */
+@media screen and (min-width: 1200px){
+  
+}
