@@ -75,11 +75,12 @@ body {
   }
   
   #slider figure {
+    display: block;
     position: relative;
-    width: 500%;
+    width: 100%;
     margin: 0;
     left: 0;
-    animation: 15s slider infinite;
+    animation: 10s slider infinite;
   }
     
   #slider figure img {
